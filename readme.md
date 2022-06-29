@@ -27,3 +27,4 @@ After 15 seconds, the recording stops and a new window rates with a phrase how i
 
 ## How it rates
 
+The rating is defined by a pitch algorithm implemented when the user sings the musical note. If the musical note is the same or quite near the one shown on the musical sheet shown on screen, then the "WELL DONE" message pops up as stated before. If the musical note sang is very different to the one on screen, then the pitch algorithm will compare them and, when noticing it is very different, the message "MAYBE NEXT TIME" will pop up.
